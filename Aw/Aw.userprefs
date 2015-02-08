@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Aw\Aw.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.0123456789ABCDEF" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Aw\MainActivity.cs">
+    <Files>
+      <File FileName="Aw\GameLayer.cs" Line="4" Column="4" />
+      <File FileName="Aw\MainActivity.cs" Line="17" Column="17" />
+      <File FileName="Aw\GameAppDelegate.cs" Line="44" Column="44" />
+      <File FileName="Aw\HackGameDelegate.cs" Line="13" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Aw AndroidDeviceId-Debug="0123456789ABCDEF" />
+</Properties>

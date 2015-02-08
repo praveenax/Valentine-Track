@@ -1,0 +1,17 @@
+C:\Users\xavax_000\Documents\Projects\Aw\Aw\bin\Debug\Aw.dll
+C:\Users\xavax_000\Documents\Projects\Aw\Aw\bin\Debug\Aw.pdb
+C:\Users\xavax_000\Documents\Projects\Aw\Aw\bin\Debug\Aw.dll.mdb
+C:\Users\xavax_000\Documents\Projects\Aw\Aw\bin\Debug\Aw.Aw.apk
+C:\Users\xavax_000\Documents\Projects\Aw\Aw\bin\Debug\Aw.Aw-Signed.apk
+C:\Users\xavax_000\Documents\Projects\Aw\Aw\bin\Debug\box2d.dll
+C:\Users\xavax_000\Documents\Projects\Aw\Aw\bin\Debug\CocosSharp.dll
+C:\Users\xavax_000\Documents\Projects\Aw\Aw\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\xavax_000\Documents\Projects\Aw\Aw\bin\Debug\Lidgren.Network.dll
+C:\Users\xavax_000\Documents\Projects\Aw\Aw\bin\Debug\MonoGame.Framework.dll
+C:\Users\xavax_000\Documents\Projects\Aw\Aw\obj\Debug\Aw.dll
+C:\Users\xavax_000\Documents\Projects\Aw\Aw\obj\Debug\Aw.pdb
+C:\Users\xavax_000\Documents\Projects\Aw\Aw\obj\Debug\android\bin\Aw.Aw.apk
+C:\Users\xavax_000\Documents\Projects\Aw\Aw\obj\Debug\res\values\strings.xml
+C:\Users\xavax_000\Documents\Projects\Aw\Aw\obj\Debug\res\drawable\icon.png
+C:\Users\xavax_000\Documents\Projects\Aw\Aw\obj\Debug\R.cs.flag
+C:\Users\xavax_000\Documents\Projects\Aw\Aw\obj\Debug\uploadflags.txt
